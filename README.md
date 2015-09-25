@@ -1,0 +1,2 @@
+# StarterPage
+Учебный Git проект
